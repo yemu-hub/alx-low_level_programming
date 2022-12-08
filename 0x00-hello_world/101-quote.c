@@ -1,8 +1,8 @@
 #include <stdio.h>
 #include <unistd.h>
 /**
- *main-entry into program.
- *return-exit 0 after completion.
+ * main-entry into program.
+ * return: success 0.
  */
 int main(void)
 {
