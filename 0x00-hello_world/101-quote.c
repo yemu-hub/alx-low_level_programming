@@ -2,7 +2,7 @@
 #include <unistd.h>
 /**
  *main-entry into program.
- *exit by returning 0.
+ *return-exit 0 after completion.
  */
 int main(void)
 {
