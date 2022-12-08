@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <unistd.h>
 /**
- *maint-entry into program.
+ *main-entry into program.
  *exit by returning 0.
  */
 int main(void)
