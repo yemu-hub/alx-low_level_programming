@@ -14,7 +14,7 @@ int main(void)
 		putchar((number % 10) + '0');
 		number++;
 	}
-	for ( let = 'a'; let <= 'f'; let++)
+	for (let = 'a'; let <= 'f'; let++)
 		putchar(let);
 	putchar('\n');
 	return (0);
