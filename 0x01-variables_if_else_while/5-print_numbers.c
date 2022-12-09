@@ -1,6 +1,6 @@
 #include <stdio.h>
 /**
- * maint -program entry.
+ * main-program entry.
  * Return: success 0.
  */
 int main(void)
