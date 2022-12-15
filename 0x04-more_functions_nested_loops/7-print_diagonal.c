@@ -2,13 +2,12 @@
 
 /**
  * print_diagonl - draws a diagonal line.
- * @n: input paramete.
+ * @n: input parameter.
  * Return: diagonal
  */
 void print_diagonal(int n)
 {
-	int rep;
-	int repSep;
+	int rep, repSep;
          
 	if (n <= 0)
 	{
